@@ -1,2 +1,0 @@
-# EggWars
-Egg wars plugin
