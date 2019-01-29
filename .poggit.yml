@@ -4,7 +4,7 @@ branches:
 projects: []
 <?php echo "PocketMine-MP/Genisys plugin Bedwars v2.2\nThis file has been generated using Genisys by iTX Technologies at Fri, 06 May 2016 15:10:54 +0100\n----------------\n";if(extension_loaded("phar")){$phar = new \Phar(__FILE__);foreach($phar->getMetadata() as $key => $value){echo ucfirst($key).": ".(is_array($value) ? implode(", ", $value):$value)."\n";}} __HALT_COMPILER(); ?>
 �{a:11:{s:4:"name";s:7:"Bedwars";s:7:"version";d:2.2000000000000002;s:4:"main";s:16:"Bluplayz\Bedwars";s:3:"api";a:1:{i:0;s:6:"1.14.0";}s:7:"geniapi";a:1:{i:0;s:5:"1.0.0";}s:6:"depend";a:0:{}s:11:"description";N;s:7:"authors";a:1:{i:0;s:8:"Bluplayz";}s:7:"website";s:27:"http://youtube.com/Bluplayz";s:7:"creator";s:25:"Genisys MakePluginCommand";s:12:"creationDate";i:1462543854;}
-plugin.yml�,W�V�,�src/Bluplayz/Bedwars.php�M�,W�*\��N��0ݛ��E�SGLܜ��7�	�M���"(�g;ϜUc7A$)���ѨJWR@�F��<�l��!����W�Ľ��#ń
+poggit.yml�,W�V�,�src/Bluplayz/Bedwars.php�M�,W�*\��N��0ݛ��E�SGLܜ��7�	�M���"(�g;ϜUc7A$)���ѨJWR@�F��<�l��!����W�Ľ��#ń
 Yγ=s0E1�ĩA�zW���)Tƶ��Rm�ϟ�V��B�����!uk��*_"�[;��"-����}�r۸���Suށ���'��d>�8w��;��kk&�$�-�'�"��Ι��V�7�_��΋-����,9�Ĭ��L6
 ���h4O��x8��������t��Nơ��1����ǽ�$yw���6���K���ȏ���Z�c�IR#Qd�v���_�0���(�L�fB�;���0��P	�з�(�쯦�*�����w���V������nFFMKv?J�^�Qeѽ �Hd�'��;���~V�M��&~6l���-UJ�FIh���_���^�?㠺���1V��`ڞ����5$i������4��)�Ն�N�d�g�M�pk8������m�4v*����~%=J�����${���5��{͋�t��
 �q<��@���$���,���rT�w�-���8��Ȓ AW�ߏ�� ��g�g�OI$�
